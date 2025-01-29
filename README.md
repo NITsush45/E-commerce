@@ -104,7 +104,7 @@ Remove a specific resource by its ID.
 
 Send requests and view responses directly in Postman.
 ###Create a .env file in the e-commerce-backend folder with the following:
-MONGO_URI=MONGO_URI="mongodb+srv://sushiitantmi45:ipvhwvGQbP3n4IMV@cluster0.3ok3p.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI="mongodb+srv://sushiitantmi45:ipvhwvGQbP3n4IMV@cluster0.3ok3p.mongodb.net/?retryWrites=true&w=majority"
 
 ###Contact
 For any inquiries, reach out at:
